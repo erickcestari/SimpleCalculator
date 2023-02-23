@@ -1,2 +1,3 @@
 # SimpleCalculator
-A simple calculator that does basic arithmetic operations 🖩
+A simple calculator that does basic arithmetic operations 
+##🧮
