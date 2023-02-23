@@ -45,6 +45,7 @@ buttons.forEach(button => {
                             break;
                     }
                 }
+                operation = '';
             }
             else{
                 if(value == "." && !operation) {display +='.'}
